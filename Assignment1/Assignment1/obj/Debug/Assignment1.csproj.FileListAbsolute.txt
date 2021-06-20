@@ -1,0 +1,56 @@
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\IKVM.Runtime.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\bin\Debug\weka.dll
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\Mustafa\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CopyComplete
+D:\SCHOOL\DECİSİON\Assignment\PROJECTS\p3\CME4432-Assignment1-Weka-main\CME4432-Assignment1-Weka-main\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+D:\SCHOOL\DECİSİON\Assignment\PROJECTS\p3\CME4432-Assignment1-Weka-main\CME4432-Assignment1-Weka-main\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+D:\SCHOOL\DECİSİON\Assignment\PROJECTS\p3\CME4432-Assignment1-Weka-main\CME4432-Assignment1-Weka-main\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+D:\SCHOOL\DECİSİON\Assignment\PROJECTS\p3\CME4432-Assignment1-Weka-main\CME4432-Assignment1-Weka-main\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+D:\SCHOOL\DECİSİON\Assignment\PROJECTS\p3\CME4432-Assignment1-Weka-main\CME4432-Assignment1-Weka-main\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+D:\SCHOOL\DECİSİON\Assignment\PROJECTS\p3\CME4432-Assignment1-Weka-main\CME4432-Assignment1-Weka-main\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+D:\SCHOOL\DECİSİON\Assignment\PROJECTS\p3\CME4432-Assignment1-Weka-main\CME4432-Assignment1-Weka-main\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+D:\SCHOOL\DECİSİON\Assignment\PROJECTS\p3\CME4432-Assignment1-Weka-main\CME4432-Assignment1-Weka-main\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+D:\SCHOOL\DECİSİON\Assignment\PROJECTS\p3\CME4432-Assignment1-Weka-main\CME4432-Assignment1-Weka-main\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CopyComplete
+D:\SCHOOL\DECİSİON\Assignment\PROJECTS\p3\CME4432-Assignment1-Weka-main\CME4432-Assignment1-Weka-main\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+D:\SCHOOL\DECİSİON\Assignment\PROJECTS\p3\CME4432-Assignment1-Weka-main\CME4432-Assignment1-Weka-main\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+D:\SCHOOL\DECİSİON\Assignment\New folder (2)\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+D:\SCHOOL\DECİSİON\Assignment\New folder (2)\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+D:\SCHOOL\DECİSİON\Assignment\New folder (2)\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+D:\SCHOOL\DECİSİON\Assignment\New folder (2)\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+D:\SCHOOL\DECİSİON\Assignment\New folder (2)\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+D:\SCHOOL\DECİSİON\Assignment\New folder (2)\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+D:\SCHOOL\DECİSİON\Assignment\New folder (2)\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+D:\SCHOOL\DECİSİON\Assignment\New folder (2)\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+D:\SCHOOL\DECİSİON\Assignment\New folder (2)\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CopyComplete
+D:\SCHOOL\DECİSİON\Assignment\New folder (2)\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+D:\SCHOOL\DECİSİON\Assignment\New folder (2)\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
